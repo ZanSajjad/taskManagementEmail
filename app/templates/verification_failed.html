@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Verification Failed{% endblock %}
+
+{% block content %}
+    <div class="container mt-4">
+        <h2>Email Verification Failed</h2>
+        <p>The verification link is invalid or has expired.</p>
+        <p><a href="/users/resend-verification">Resend verification email</a></p>
+    </div>
+{% endblock %}
