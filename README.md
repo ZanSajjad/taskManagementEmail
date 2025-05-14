@@ -1,6 +1,6 @@
 # taskManagementEmail
 
-pip install fastapi  uvicorn  sqlalchemy httpx itsdangerous jinja2  passlib[bcrypt]  python-jose[cryptography]  pydantic  python-multipart
+pip install fastapi  uvicorn  sqlalchemy httpx itsdangerous jinja2  passlib[bcrypt] dotenv  python-jose[cryptography]  pydantic  python-multipart
 
 # to get google authentication api go to website 
 
