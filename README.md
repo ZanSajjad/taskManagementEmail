@@ -3,6 +3,7 @@
 pip install fastapi  uvicorn  sqlalchemy httpx itsdangerous jinja2  passlib[bcrypt] dotenv  python-jose[cryptography]  pydantic  python-multipart
 
 # to get google authentication api go to website 
+https://console.cloud.google.com/
 
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
